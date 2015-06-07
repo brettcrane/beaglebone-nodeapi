@@ -1,6 +1,6 @@
 {
   "name": "beaglebone-noderest",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A REST API to get/set Beaglebone Black GPIO settings",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,14 @@
   "dependencies": {
     "express": "~4.12.4",
     "connect": "~3.3.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brettcrane/beaglebone-nodeapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brettcrane/beaglebone-nodeapi/issues"
+  },
+  "homepage": "https://github.com/brettcrane/beaglebone-nodeapi"
 }
