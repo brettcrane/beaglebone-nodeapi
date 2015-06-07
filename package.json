@@ -1,0 +1,20 @@
+{
+  "name": "beaglebone-noderest",
+  "version": "0.0.0",
+  "description": "A REST API to get/set Beaglebone Black GPIO settings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "beaglebone",
+    "rest",
+    "node"
+  ],
+  "author": "Brett Crane",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.12.4",
+    "connect": "~3.3.5"
+  }
+}
